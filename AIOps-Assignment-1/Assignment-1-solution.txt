@@ -1,0 +1,11 @@
+1. What is AI-ops?
+Artificial intelligence for IT operations is abbreviated as AIOps. It refers to multi-layered technology platforms that use 
+analytics and machine learning to automate and improve IT operations (ML). Big data is used by AIOps systems, which collect 
+data from a range of IT operations tools and devices in order to automatically detect and respond to issues in real time while 
+also giving traditional historical analytics.
+
+2. Why do we use Ai-ops?
+Data from across the IT ecosystem is ingested, including both historical and real-time streaming data. Filters out the noise, 
+allowing only the most important facts to be examined. Patterns in the data are discovered and understood. When possible problems 
+are recognised, it sends out notifications or events.
+Apart from continuous integration and continuous development, AIOps also provide the model retraining approach.
