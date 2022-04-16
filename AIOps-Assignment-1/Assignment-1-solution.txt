@@ -9,3 +9,9 @@ Data from across the IT ecosystem is ingested, including both historical and rea
 allowing only the most important facts to be examined. Patterns in the data are discovered and understood. When possible problems 
 are recognised, it sends out notifications or events.
 Apart from continuous integration and continuous development, AIOps also provide the model retraining approach.
+
+3. What is the difference between AI-ops and ML-ops?
+AIOps is a method of automating a system using machine learning and big data. MLOps is a technique to standardise the process 
+of deploying machine learning systems and filling in the gaps across teams, providing better clarity to all project stakeholders.
+
+4. What do you mean by CI-CD?
